@@ -1,2 +1,2 @@
 # AcademicTrackerSpecialProject
-For sprcial project
+For special project
